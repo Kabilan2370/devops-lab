@@ -4,8 +4,4 @@ def git_opeation():
 
 git_opeation()
 
-<<<<<<< HEAD
-example test message added.
-=======
 This py file updated from on latest branch.
->>>>>>> latest
