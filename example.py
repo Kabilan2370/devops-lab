@@ -4,3 +4,7 @@ def git_opeation():
 
 git_opeation()
 hp updated
+
+#!/bin/bash
+
+echo 'welcome to the code'
